@@ -3,8 +3,8 @@ package Unit_03;
 public class p1exceptionoverloading {
 
 
-//try {
-//int a=100/0}
-//system.out.println();
+try {
+int a=100/2}
+system.out.println(hello);
 
 }
